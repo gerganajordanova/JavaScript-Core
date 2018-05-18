@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="18.Movie Prices.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/18.Movie Prices.js">
+      <file leaf-file-name="22. Monthly Calendar.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/22. Monthly Calendar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +55,10 @@
         <option value="$PROJECT_DIR$/16.Odd Numbers 1 to N.js" />
         <option value="$PROJECT_DIR$/17.Triangle of Dollars.js" />
         <option value="$PROJECT_DIR$/18.Movie Prices.js" />
+        <option value="$PROJECT_DIR$/19.Quadratic Equation.js" />
+        <option value="$PROJECT_DIR$/20.Multiplication Table.js" />
+        <option value="$PROJECT_DIR$/21.Figure of 4 Squares.js" />
+        <option value="$PROJECT_DIR$/22. Monthly Calendar.js" />
       </list>
     </option>
   </component>
@@ -70,7 +74,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -139,16 +143,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526630057259</updated>
-      <workItem from="1526630070488" duration="8851000" />
+      <workItem from="1526630070488" duration="11676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8851000" />
+    <option name="totallyTimeSpent" value="11676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -318,8 +321,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/18.Movie Prices.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="368">
+          <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19.Quadratic Equation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20.Multiplication Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21.Figure of 4 Squares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22. Monthly Calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
