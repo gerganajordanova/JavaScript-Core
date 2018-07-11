@@ -29,14 +29,15 @@
 <script>
     function create(sentences) {
         for (let sentence of sentences) {
-            let div=document.createElement('div');
-            let content=document.getElementById('content');
-            div.innerHTML=`<p style='display: none'>${sentence}</p>`;
-            div.addEventListener('click',click)
+            let div = document.createElement('div');
+            let content = document.getElementById('content');
+            div.innerHTML = `<p style='display: none'>${sentence}</p>`;
+            div.addEventListener('click', click)
             content.appendChild(div);
         }
+
         function click() {
-            this.querySelector('p').style.display='inline'
+            this.querySelector('p').style.display = 'inline'
         }
     }
 </script>

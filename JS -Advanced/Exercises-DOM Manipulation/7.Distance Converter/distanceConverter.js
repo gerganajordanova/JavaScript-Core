@@ -9,7 +9,7 @@ function attachEventsListeners() {
 
         let inputToM = 0;
         let result = 0;
-        switch (inputUnits){
+        switch (inputUnits) {
             case 'km':
                 inputToM = inputDistance * 1000;
                 break;
@@ -36,7 +36,7 @@ function attachEventsListeners() {
                 break;
         }
 
-        switch (outputUnits){
+        switch (outputUnits) {
             case 'km':
                 result = inputToM / 1000;
                 break;

@@ -18,10 +18,10 @@
         switch (recipe) {
             case "apple":
                 if (ingredients['flavour'] < quantity * 2) {
-                    message =  "Error: not enough flavour in stock";
+                    message = "Error: not enough flavour in stock";
                 }
                 if (ingredients['carbohydrate'] < quantity) {
-                    message =  "Error: not enough carbohydrate in stock";
+                    message = "Error: not enough carbohydrate in stock";
                 }
 
                 if (message == "") {

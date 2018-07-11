@@ -23,8 +23,8 @@ function bmi(name, age, weight, height) {
         status: status
     };
 
-    if (status==='obese'){
-        person['recommendation']='admission required';
+    if (status === 'obese') {
+        person['recommendation'] = 'admission required';
     }
     return person;
 }

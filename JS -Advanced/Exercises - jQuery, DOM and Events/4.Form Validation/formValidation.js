@@ -22,21 +22,21 @@ function validate() {
         ev.preventDefault();
         validateForm();
         validationDiv.css('display', allIsValid ? "block" : "none");
-        allIsValid=true;
+        allIsValid = true;
     });
 
     function validateForm() {
-        regexValidation(username,/^[A-Za-z\d]{3,20}$/g);
-        regexValidation(email,/^.*?@.*?\..*$/g);
+        regexValidation(username, /^[A-Za-z\d]{3,20}$/g);
+        regexValidation(email, /^.*?@.*?\..*$/g);
         if (confirmPass.val() === password.val()) {
-            regexValidation(password,/^\w{5,15}$/g);
-            regexValidation(confirmPass,/^\w{5,15}$/g);
+            regexValidation(password, /^\w{5,15}$/g);
+            regexValidation(confirmPass, /^\w{5,15}$/g);
         } else {
             password.css('border', 'solid red');
             confirmPass.css('border', 'solid red');
             allIsValid = false;
         }
-        if (companyCheckBox.is(':checked')){
+        if (companyCheckBox.is(':checked')) {
             validateCompanyInfo();
         }
     }
@@ -58,7 +58,7 @@ function validate() {
         }
         else {
             companyNum.css('border', 'solid red');
-            allIsValid=false;
+            allIsValid = false;
         }
     }
 }
