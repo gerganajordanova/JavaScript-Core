@@ -14,42 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="codeToBeTested.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/codeToBeTested.js">
+      <file leaf-file-name="repository.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 3. Repository (Simple Class)/repository.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-608">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-311">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="32" selection-start-column="78" selection-end-line="33" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myTests.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/myTests.js">
+      <file leaf-file-name="Problem 4. Modal Dialog (Object Interacting with DOM).html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 4. Modal Dialog (Object Interacting with DOM)/Problem 4. Modal Dialog (Object Interacting with DOM).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="152" column="8" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="155" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myClass.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/simpleClass/myClass.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/classAndDom/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="97">
+              <caret line="45" column="67" lean-forward="false" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,22 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercises-Functions, Object Composition, Revealing Modules/4.Personal BMI.js" />
-        <option value="$PROJECT_DIR$/Exercises-Functions, Object Composition, Revealing Modules/3.Functional Sum.js" />
-        <option value="$PROJECT_DIR$/Exercises-Functions, Object Composition, Revealing Modules/6.Breakfast Robot.js" />
-        <option value="$PROJECT_DIR$/Exercises-Functions, Object Composition, Revealing Modules/7.Monkey Patcher.js" />
-        <option value="$PROJECT_DIR$/Exercises-Functions, Object Composition, Revealing Modules/8.Euclid’s Algorithm.js" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/2.Fill Dropdown/dropdown.js" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/2.Fill Dropdown/2.Fill Dropdown.html" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/3.Accordion/3.Accordion.html" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/4.Sections/4.Sections.html" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/5.Notification/5.Notification.html" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/6.Time Converter/6.Time Converter.html" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/6.Time Converter/timeConverter.js" />
-        <option value="$PROJECT_DIR$/Exercises-DOM Manipulation/7.Distance Converter/distanceConverter.js" />
-        <option value="$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/2.Construction Crew.js" />
-        <option value="$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/5.String extension.js" />
-        <option value="$PROJECT_DIR$/Exercises - jQuery, DOM and Events/1.Increment Counter/1.Increment Counter.html" />
         <option value="$PROJECT_DIR$/Exercises - jQuery, DOM and Events/1.Increment Counter/incrementCounter.js" />
         <option value="$PROJECT_DIR$/Exercises - jQuery, DOM and Events/2.Timer/2.Timer.html" />
         <option value="$PROJECT_DIR$/Exercises - jQuery, DOM and Events/2.Timer/timer.js" />
@@ -118,6 +84,22 @@
         <option value="$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/Problem 2. Subscription Card (Unit Testing).js" />
         <option value="$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/Unit-tests.js" />
         <option value="$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/myTests.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/7. Mixins.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/5. C# Console/test/specialConsole Mocha tests.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/3.Posts.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/5. C# Console/specialConsole.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/6. Computer.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/4. The Elemelons.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/2.People.js" />
+        <option value="$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/1.Balloons.js" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 1. Sort Table (Simple DOM Interaction)/Problem 1. Sort Table (Simple DOM Interaction).html" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 1. Sort Table (Simple DOM Interaction)/Sort Table.html" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 1. Sort Table (Simple DOM Interaction)/01.SortTable.js" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/string-builder.js" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/test/tests.js" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 3. Repository (Simple Class)/repository.js" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 4. Modal Dialog (Object Interacting with DOM)/Problem 4. Modal Dialog (Object Interacting with DOM).html" />
+        <option value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 4. Modal Dialog (Object Interacting with DOM)/dialog.js" />
       </list>
     </option>
   </component>
@@ -132,6 +114,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="705" />
@@ -177,7 +162,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,24 +172,37 @@
             <path>
               <item name="JS -Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS -Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced- Exam 5 September 2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS -Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS -Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Advanced- Exam 5 September 2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 4. Modal Dialog (Object Interacting with DOM)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS -Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS -Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="JS Advanced- Exam 26 April 2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS -Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS -Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="JS Advanced- Exam 26 April 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="classAndDom" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 2. Subscription Card (Unit Testing)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS -Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS -Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="JS Advanced- Exam 26 April 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem 2. Subscription Card (Unit Testing)" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,15 +214,15 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercises- Unit Testing and Error Handling/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/test" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\гери\source\repos\gits\New folder\JavaScript-Core\JS -Advanced\JS Advanced- Exam 5 September 2017" />
       <recent name="C:\Users\гери\source\repos\gits\New folder\JavaScript-Core\JS -Advanced\JS Advanced- Exam 26 April 2018" />
       <recent name="C:\Users\гери\source\repos\gits\New folder\JavaScript-Core\JS -Advanced\JS Advanced- Exam 26 April 2018\Problem 2. Subscription Card (Unit Testing)" />
       <recent name="C:\Users\гери\source\repos\gits\New folder\JavaScript-Core\JS -Advanced\JS Advanced- Exam 26 April 2018\Problem 2. Subscription Card (Unit Testing)\test" />
       <recent name="C:\Users\гери\source\repos\gits\New folder\JavaScript-Core\JS -Advanced\JS Advanced- Exam 26 April 2018\Problem 1. Bus Route (Simple DOM Interaction)" />
-      <recent name="C:\Users\гери\source\repos\gits\New folder\JavaScript-Core\JS -Advanced\Exercises- Classes and Their Members" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,13 +243,13 @@
     <configuration name="test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
+      <working-directory>$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/test</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/Exercises- Unit Testing and Error Handling/test</test-directory>
+      <test-directory>$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/test</test-directory>
       <recursive>false</recursive>
     </configuration>
     <list size="3">
@@ -289,6 +286,7 @@
       <workItem from="1530625741899" duration="5735000" />
       <workItem from="1530695998711" duration="1873000" />
       <workItem from="1531128008242" duration="5056000" />
+      <workItem from="1531312189154" duration="5593000" />
     </task>
     <servers />
   </component>
@@ -296,21 +294,48 @@
     <history-entry file="test - 2018.07.03 at 12h 16m 20s.xml">
       <configuration name="test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 34m 11s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 34m 58s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 35m 30s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 35m 56s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 37m 49s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 38m 19s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 38m 44s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 40m 39s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.11 at 16h 41m 31s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48352000" />
+    <option name="totallyTimeSpent" value="53945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15401785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22098215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293718" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37351444" sideWeight="0.51488096" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1426146" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37351444" sideWeight="0.48511904" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.57886904" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -348,115 +373,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/test/tests.js</url>
+          <line>58</line>
+          <properties lambdaOrdinal="-1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/7.DOM Traversal/7.DOM Traversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/7.DOM Traversal/DOMTraversal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="90" column="15" lean-forward="false" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/8. Bug Tracker/8. Bug Tracker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="63" column="9" lean-forward="false" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/8. Bug Tracker/bug-tracker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/1.Array extension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/2.Construction Crew.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/3.Car Factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises- Objects, Inheritance and Prototypes/4.Extensible object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/1.Increment Counter/1.Increment Counter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/1.Increment Counter/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/2.Timer/2.Timer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/2.Timer/timer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/3.Book Generator/3.Book Generator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/4.Form Validation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/4.Form Validation/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises - jQuery, DOM and Events/5.DOM Search/5.DOM Search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -573,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,50 +586,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 1. Bus Route (Simple DOM Interaction)/Problem 1. Bus Route (Simple DOM Interaction).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="124" column="75" lean-forward="false" selection-start-line="124" selection-start-column="75" selection-end-line="124" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/Problem 2. Subscription Card (Unit Testing).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/Unit-tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/codeToBeTested.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/myTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="152" column="8" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="155" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/Problem 2. Subscription Card (Unit Testing).js" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/Unit-tests.js" />
     <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/simpleClass/myClass.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -722,6 +604,152 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/1.Balloons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/2.People.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/3.Posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/4. The Elemelons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/6. Computer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="86" column="1" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/7. Mixins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/5. C# Console/specialConsole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Exercises- Classes, Inheritance, Unit Testing/5. C# Console/test/specialConsole Mocha tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 1. Bus Route (Simple DOM Interaction)/Problem 1. Bus Route (Simple DOM Interaction).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="124" column="75" lean-forward="false" selection-start-line="124" selection-start-column="75" selection-end-line="124" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 1. Sort Table (Simple DOM Interaction)/01.SortTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 1. Sort Table (Simple DOM Interaction)/Sort Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="74" column="7" lean-forward="true" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/codeToBeTested.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 26 April 2018/Problem 2. Subscription Card (Unit Testing)/test/myTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/string-builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 2. String Builder (Unit Testing)/test/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 3. Repository (Simple Class)/repository.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="32" selection-start-column="78" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 4. Modal Dialog (Object Interacting with DOM)/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced- Exam 5 September 2017/Problem 4. Modal Dialog (Object Interacting with DOM)/Problem 4. Modal Dialog (Object Interacting with DOM).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="45" column="67" lean-forward="false" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
